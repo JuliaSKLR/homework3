@@ -1,0 +1,15 @@
+D:\User Data\Derla\Desktop\homework3\0003\bin\Debug\net6.0\0003.exe
+D:\User Data\Derla\Desktop\homework3\0003\bin\Debug\net6.0\0003.deps.json
+D:\User Data\Derla\Desktop\homework3\0003\bin\Debug\net6.0\0003.runtimeconfig.json
+D:\User Data\Derla\Desktop\homework3\0003\bin\Debug\net6.0\0003.dll
+D:\User Data\Derla\Desktop\homework3\0003\bin\Debug\net6.0\0003.pdb
+D:\User Data\Derla\Desktop\homework3\0003\obj\Debug\net6.0\0003.csproj.AssemblyReference.cache
+D:\User Data\Derla\Desktop\homework3\0003\obj\Debug\net6.0\0003.GeneratedMSBuildEditorConfig.editorconfig
+D:\User Data\Derla\Desktop\homework3\0003\obj\Debug\net6.0\0003.AssemblyInfoInputs.cache
+D:\User Data\Derla\Desktop\homework3\0003\obj\Debug\net6.0\0003.AssemblyInfo.cs
+D:\User Data\Derla\Desktop\homework3\0003\obj\Debug\net6.0\0003.csproj.CoreCompileInputs.cache
+D:\User Data\Derla\Desktop\homework3\0003\obj\Debug\net6.0\0003.dll
+D:\User Data\Derla\Desktop\homework3\0003\obj\Debug\net6.0\refint\0003.dll
+D:\User Data\Derla\Desktop\homework3\0003\obj\Debug\net6.0\0003.pdb
+D:\User Data\Derla\Desktop\homework3\0003\obj\Debug\net6.0\0003.genruntimeconfig.cache
+D:\User Data\Derla\Desktop\homework3\0003\obj\Debug\net6.0\ref\0003.dll
