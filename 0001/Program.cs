@@ -12,16 +12,16 @@ int Prompt(string message)
 int num = Prompt("Введите пятизначное число ");
 if (num > 100000 || num < 10000)
 {
-    System.Console.WriteLine("error enter");
+    System.Console.WriteLine("Ошибка Ввода");
     
 }
 else if (num % 10000 / 1000 == num % 100 / 10 && num % 100000 / 10000 == num % 10)
 {
-    System.Console.WriteLine("Polyndrome");
+    System.Console.WriteLine("Ваше число полиндром");
     
     }
 else
 {
-    System.Console.WriteLine("not polyndrome");
+    System.Console.WriteLine("ВАше число не полиндром");
 }
 
